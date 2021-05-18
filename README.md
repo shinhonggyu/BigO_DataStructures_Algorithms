@@ -1,7 +1,11 @@
+Data Structures(simply ways to store data) +  
+Algorithms(simply functions or ways to use data structures to write our programs.)  
+= Programs
+
 **What is good code ?**
 
 1. Readable ⭐
-2. Scalable ⭐(Big O❗)
+2. Scalable ⭐(Big O ⭐)
 
 **Big Os**
 
@@ -13,8 +17,8 @@ O(n^2) Quadratic(2차)- every element in a collection needs to be compared to ev
 O(2^n) Exponential(지수)- recursive algorithms that solves a problem of size N  
 O(n!) Factorial(계승)- you are adding a loop for every element
 
-Iterating through half a collection is still O(n)
-Two separate collections: O(a \* b)
+Iterating through half a collection is still O(n) - O(n/2 => n)
+Two separate collections: O(a \* b) - So two separate inputs should have two separate variables and Big O notation.
 
 **What can cause time in a function?**
 
@@ -23,7 +27,7 @@ Comparisons (<, >, ==)
 Looping (for, while)  
 Outside Function call (function())
 
-**Rule Book**
+**Rule Book** ⭐
 
 Rule 1: Always worst Case  
 Rule 2: Remove Constants  
