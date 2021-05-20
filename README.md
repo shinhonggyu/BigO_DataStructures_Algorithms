@@ -1,11 +1,10 @@
-Data Structures(simply ways to store data) +  
-Algorithms(simply functions or ways to use data structures to write our programs.)  
-= Programs
-
 **What is good code ?**
 
 1. Readable ⭐
 2. Scalable ⭐(Big O ⭐)
+
+- Speed (Big O Time Complexity / How much time does it take for a function to run / How many operations does it cost )
+- Memory (Big O Space Complexity)
 
 **Big Os**
 
@@ -17,7 +16,7 @@ O(n^2) Quadratic(2차)- every element in a collection needs to be compared to ev
 O(2^n) Exponential(지수)- recursive algorithms that solves a problem of size N  
 O(n!) Factorial(계승)- you are adding a loop for every element
 
-Iterating through half a collection is still O(n) - O(n/2 => n)
+Iterating through half a collection is still O(n) - O(n/2 => n)  
 Two separate collections: O(a \* b) - So two separate inputs should have two separate variables and Big O notation.
 
 **What can cause time in a function?**
@@ -43,3 +42,12 @@ Variables
 Data Structures  
 Function Call  
 Allocations
+
+---
+
+**What Are Companies Looking For?**
+
+- Analytic Skills 문제를 어떻게 생각하고 분석 할 수있는지
+- Coding Skills 깔끔하고 간단하며 체계적이고 읽기 쉬운 코드를 작성하여 코드를 잘 작성합니까?
+- Technical knowledge 지원하는 직업의 기본 사항을 알고 있습니까?
+- Communication Skills
